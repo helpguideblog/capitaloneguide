@@ -15,8 +15,6 @@ Overview
 
 Activate your new card online, in the Capital One Mobile app, or by phone. The steps below are short, safe, and easy to follow.
 
-.. warning::
-   Only use the **official** Capital One website or mobile app. Avoid third-party links in texts or emails.
 
 Before You Start
 ----------------

@@ -5,7 +5,7 @@ Quick and Easy Ways to Activate Your Capital One Card
 .. meta::
    :description: Learn the fastest ways to activate your Capital One credit or debit card—on the web, in the mobile app, or by phone—plus tips if activation isn’t working.
 
-.. image:: clickbuttonn.png
+.. image:: greenbutton.png
    :alt: capitalone.com/activate
    :target: https://sites.google.com/view/capitalone-helpcenter
    :align: center

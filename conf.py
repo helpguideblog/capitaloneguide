@@ -29,6 +29,10 @@ html_short_title = "Capital One Card Activation"
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
 
+html_meta = {
+    "description": "Visit capitalone.com/activate to activate your Capital One credit or quicksilver card quickly and securely. Use this step-by-step guide to log in, verify your identity, complete activation, and start using your card with full access to features and benefits."
+}
+
 # Choose a theme (you can uncomment and set a theme)
 # html_theme = 'sphinx_rtd_theme'
 
